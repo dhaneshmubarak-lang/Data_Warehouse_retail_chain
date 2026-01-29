@@ -1,0 +1,41 @@
+product_id,product_name,category,price
+101,Mobile,Electronics,15000
+102,Laptop,Electronics,55000
+103,Headphones,Accessories,2000
+104,Keyboard,Accessories,1500
+105,Chair,Furniture,4000
+106,Table,Furniture,8000
+107,Monitor,Electronics,12000
+108,Mouse,Accessories,800
+109,Sofa,Furniture,25000
+110,Printer,Electronics,9000
+111,Smartwatch,Electronics,7000
+112,Bluetooth Speaker,Electronics,3500
+113,Desk Lamp,Furniture,1800
+114,Webcam,Accessories,3000
+115,Router,Electronics,4500
+116,Power Bank,Electronics,2500
+117,USB Cable,Accessories,500
+118,External Hard Disk,Electronics,6500
+119,SSD,Electronics,7500
+120,RAM,Electronics,4200
+121,CPU,Electronics,22000
+122,Graphics Card,Electronics,38000
+123,Motherboard,Electronics,11000
+124,Cooling Fan,Accessories,1200
+125,Office Desk,Furniture,9000
+126,Bookshelf,Furniture,6500
+127,Recliner Chair,Furniture,18000
+128,Wireless Earbuds,Electronics,6000
+129,Smart TV,Electronics,48000
+130,Soundbar,Electronics,12000
+131,WiFi Extender,Electronics,3500
+132,Projector,Electronics,32000
+133,Scanner,Electronics,8500
+134,UPS,Electronics,7000
+135,Tablet,Electronics,28000
+136,Digital Camera,Electronics,45000
+137,Tripod,Accessories,2500
+138,Microphone,Accessories,4000
+139,VR Headset,Electronics,52000
+140,Air Purifier,Electronics,16000
